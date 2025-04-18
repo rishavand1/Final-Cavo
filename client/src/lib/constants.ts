@@ -50,7 +50,7 @@ export const projectData = [
     link: "https://scroll-style-shop-3d.lovable.app/"
   },
    {
-    image: "https://i.postimg.cc/pT5g7dvR/Screenshot-2025-04-18-123356.png",
+    image: "https://i.postimg.cc/YqVPhgQz/Screenshot-2025-04-18-131539.png",
     title: "Stock Marketing Analysis Platform",
     description: "Personalized shopping experience powered by AI for a national retail chain.",
     tags: ["Web-App", "AI", "React Native"],
