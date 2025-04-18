@@ -49,6 +49,13 @@ export const projectData = [
     tags: ["Web-App", "AI", "React Native"],
     link: "https://scroll-style-shop-3d.lovable.app/"
   },
+   {
+    image: "https://i.postimg.cc/pT5g7dvR/Screenshot-2025-04-18-123356.png",
+    title: "Stock Marketing Analysis Platform",
+    description: "Personalized shopping experience powered by AI for a national retail chain.",
+    tags: ["Web-App", "AI", "React Native"],
+    link: "https://stock-price-valuation-calculator-ekt6bqpvbmtcj3xenfzfvu.streamlit.app/"
+  }
 ];
 
 // Team data
