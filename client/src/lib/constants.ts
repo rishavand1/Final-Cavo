@@ -34,27 +34,21 @@ export const serviceData = [
 
 // Project data
 export const projectData = [
-  {
-    image: "https://images.unsplash.com/photo-1551434678-e076c223a692?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80",
-    title: "AI-Powered Analytics Dashboard",
-    description: "A comprehensive analytics solution with AI-driven insights for a leading fintech company.",
-    tags: ["AI", "Data Visualization", "React"],
-    link: "#"
-  },
-  {
-    image: "https://images.unsplash.com/photo-1616763355603-9755a640a287?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80",
-    title: "Next-Gen Cybersecurity System",
-    description: "Advanced threat detection and prevention system for enterprise-level organizations.",
-    tags: ["Cybersecurity", "ML", "Cloud"],
-    link: "#"
-  },
-  {
-    image: "https://images.unsplash.com/photo-1519389950473-47ba0277781c?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80",
-    title: "Smart Retail App Platform",
+  
+   {
+    image: "https://i.postimg.cc/Hk2mdFX7/Screenshot-2025-04-18-122612.png",
+    title: "Investment Platform",
     description: "Personalized shopping experience powered by AI for a national retail chain.",
-    tags: ["Mobile App", "AI", "React Native"],
-    link: "#"
-  }
+    tags: ["Web-App", "AI", "React Native"],
+    link: "https://badatalaabinvestments.com/"
+  },
+  {
+    image: "https://i.postimg.cc/pT5g7dvR/Screenshot-2025-04-18-123356.png",
+    title: "Investment Platform",
+    description: "Personalized shopping experience powered by AI for a national retail chain.",
+    tags: ["Web-App", "AI", "React Native"],
+    link: "https://scroll-style-shop-3d.lovable.app/"
+  },
 ];
 
 // Team data
