@@ -44,7 +44,7 @@ export const projectData = [
   },
   {
     image: "https://i.postimg.cc/pT5g7dvR/Screenshot-2025-04-18-123356.png",
-    title: "Investment Platform",
+    title: "3D E-commerce",
     description: "Personalized shopping experience powered by AI for a national retail chain.",
     tags: ["Web-App", "AI", "React Native"],
     link: "https://scroll-style-shop-3d.lovable.app/"
